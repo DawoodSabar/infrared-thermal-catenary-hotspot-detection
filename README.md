@@ -42,3 +42,7 @@ Research on Infrared Thermal Imaging Sensor for Overhead Catenary Hot Spot Detec
 Proceeding of the 8th International Conference on Mechanical, Electric, and Industrial Engineering (MEIE), 2025. 
 
 https://doi.org/10.1049/icp.2025.3327
+
+
+# License
+This project is released under the MIT License. See the LICENSE file for details. 
