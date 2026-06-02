@@ -10,8 +10,8 @@ This repository presents the simulation implementation accompanying the research
 # Methodology
 Infrared thermal sensing model, 
 Thermal anomaly detection,
-Temperature distribution analysis, 
-MATLAB-based simulation and visualization, 
+Temperature distribution analysis,  
+MATLAB-based simulation and visualization,  
 
 
 # Tools
